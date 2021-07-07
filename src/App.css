@@ -1,0 +1,10 @@
+nav.container {
+    border: 1px solid black;
+    background: #edf0ff42;
+}
+
+ul.nav {
+    background-color: lightgray;
+    margin-top: 5px;
+    border-radius: 5px;
+}
